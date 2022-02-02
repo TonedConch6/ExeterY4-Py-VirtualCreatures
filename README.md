@@ -1,5 +1,5 @@
 # Virtural Creature
-Coursework 2 project for ECMM409
+A group project, where the task was to apply a nature-inspired technique to tackle a problem from one of The Genetic and Evolutionary Computation Conferences (GECCO) from the last decade. The problem chosen was the Virtual Creatures Competition from the 2019 conference. This was carried out using a Python interface for Open Dynamics Engine called Python Robot Simulator (pyrosim), which was designed by members of the MEC-Lab at The University of Vermont.
 
 A Robot that fits mutiple environments for different objectives
 
